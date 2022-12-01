@@ -1,0 +1,12 @@
+ body {
+     background-color: #c1e4f1;
+     padding: 3rem;
+ }
+ .text{
+     font-family: Corbel;
+     font-size: 20px;
+
+ }
+ .api-url {
+     font-family: Avenir;
+ }
